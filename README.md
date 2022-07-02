@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá 👋:scorpius:
 
-<!--
-**diogorochembach/diogorochembach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Me chamo ✨ Diogo Rochembach ✨ sou programador Front End. Antes de me tornar desenvolvedor, adquiri muita experiência na área administrativa onde sou graduado em Administração de Empresas pela Universidade Regional do Noroeste do Estado do RS (UNIJUÍ), uma das melhores universidades do Rio Grande do Sul e me especializei com um MBA em Gestão de Pessoas na Antonio Meneghetti Facildade (AMF) na cidade de Santa Maria.
 
-Here are some ideas to get you started:
+Como um apaixonade em tecnologia como sempre fui, hoje trabalho como Gestor de TI na empresa Fernandez Comércio de Medicamentos (MB Farmácias), empresa com 54 filiais, e e m pleno crescimento, onde estou me desenvolvendo como Front End e buscando me tornar Full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com toda essa carga de conhecimento na área administrativa, me tornei um gestor de resolução de problemas ou podemos chamar de oportunidades, onde o meu desafio diário é facilitar a vida dos usuários da empresa com a tecnologia disponível no mercado, sempre pensando em maximizar os recursos da empresa, fazendo o impossível para que todos os colaboradores desempenhem suas funções da melhor forma possivel e garantam seus metas e resultados mensais!</p>
+
+Atualmente possuo conhecimento em:
+
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+Me siga nas redes sociais:
+
+<a href="https://www.linkedin.com/in/diogorochembach/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> </a>
+<a href="https://www.instagram.com/diogo_rochembach/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+
+[![Diogo Rochembach](https://github-readme-stats.vercel.app/api?username=diogorochembach)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogorochembach)](https://github.com/anuraghazra/github-readme-stats)
+
+
