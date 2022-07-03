@@ -1,6 +1,6 @@
 ### Olá 👋:scorpius:
 
-Me chamo ✨ Diogo Rochembach ✨ sou programador Front End. Antes de me tornar desenvolvedor, adquiri muita experiência na área administrativa onde sou graduado em Administração de Empresas pela Universidade Regional do Noroeste do Estado do RS (UNIJUÍ), uma das melhores universidades do Rio Grande do Sul e me especializei com um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade (AMF) na cidade de Santa Maria.
+Eu sou o ✨ Diogo Rochembach ✨ programador Front End. Antes de me tornar desenvolvedor, adquiri muita experiência na área administrativa onde sou graduado em Administração de Empresas pela Universidade Regional do Noroeste do Estado do RS (UNIJUÍ), uma das melhores universidades do Rio Grande do Sul e me especializei com um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade (AMF) na cidade de Santa Maria.
 
 Como um apaixonade por tecnologia como sempre fui, hoje trabalho como Gestor de TI na empresa Fernandez Comércio de Medicamentos (MB Farmácias), empresa com 54 filiais, em pleno crescimento, onde estou me desenvolvendo como Front End e buscando me tornar Full stack.
 
