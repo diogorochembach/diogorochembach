@@ -1,10 +1,10 @@
 ### Olá 👋:scorpius:
 
-<p>Me chamo ✨ Diogo Rochembach ✨ sou programador Front End. Antes de me tornar desenvolvedor, adquiri muita experiência na área administrativa onde sou graduado em Administração de Empresas pela Universidade Regional do Noroeste do Estado do RS (UNIJUÍ), uma das melhores universidades do Rio Grande do Sul e me especializei com um MBA em Gestão de Pessoas na Antonio Meneghetti Facildade (AMF) na cidade de Santa Maria.
+Me chamo ✨ Diogo Rochembach ✨ sou programador Front End. Antes de me tornar desenvolvedor, adquiri muita experiência na área administrativa onde sou graduado em Administração de Empresas pela Universidade Regional do Noroeste do Estado do RS (UNIJUÍ), uma das melhores universidades do Rio Grande do Sul e me especializei com um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade (AMF) na cidade de Santa Maria.
 
-Como um apaixonade em tecnologia como sempre fui, hoje trabalho como Gestor de TI na empresa Fernandez Comércio de Medicamentos (MB Farmácias), empresa com 54 filiais, e e m pleno crescimento, onde estou me desenvolvendo como Front End e buscando me tornar Full stack.
+Como um apaixonade por tecnologia como sempre fui, hoje trabalho como Gestor de TI na empresa Fernandez Comércio de Medicamentos (MB Farmácias), empresa com 54 filiais, em pleno crescimento, onde estou me desenvolvendo como Front End e buscando me tornar Full stack.
 
-Com toda essa carga de conhecimento na área administrativa, me tornei um gestor de resolução de problemas ou podemos chamar de oportunidades, onde o meu desafio diário é facilitar a vida dos usuários da empresa com a tecnologia disponível no mercado, sempre pensando em maximizar os recursos da empresa, fazendo o impossível para que todos os colaboradores desempenhem suas funções da melhor forma possivel e garantam seus metas e resultados mensais!</p>
+Com toda essa carga de conhecimento na área administrativa, me tornei um gestor de resultados através da resolução de problemas ou oportunidades, onde o meu desafio diário é facilitar a vida dos usuários da empresa com a tecnologia disponível no mercado, sempre pensando em maximizar os recursos da empresa, fazendo o impossível para que todos os colaboradores desempenhem suas funções da melhor forma possivel e garantam a entrega de suas metas e resultados mensais!
 
 Atualmente possuo conhecimento em:
 
