@@ -3,7 +3,7 @@ Meu nome é Diogo Rochembach e como uma pessoa treinada, possuo uma boa habilida
 Além disso, tenho habilidades em gerenciamento de tempo e organização, o que me permite cumprir prazos e entregar trabalhos com excelência. Também sou capaz de trabalhar bem em equipe e colaborar com colegas em diferentes níveis.
 Tenho experiência em diversos campos, principalmente em atendimento ao cliente. Sou extremamente versátil e estou sempre disposto a aprender novas habilidades.
 
-Atualmente estou cursando Formação Full Stack na DNC Escola de Tecnologia e Análise e Desenvolvimento de Sistema na UNIASSELVI 3º semestre. Sou formado em Administração de Empresas, fiz um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade localizada no Recanto Maestro/RS. Possuo experiência na área administrativa e comercial.
+Atualmente estou cursando Formação Full Stack na DNC Escola de Tecnologia e Análise e Desenvolvimento de Sistema na UNIASSELVI 3º semestre. Sou formado em Administração de Empresas pela UNIJUÍ/RS, fiz um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade localizada no Recanto Maestro/RS. Possuo experiência na área administrativa e comercial.
 
 
 Atualmente possuo conhecimento em:
