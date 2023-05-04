@@ -1,5 +1,5 @@
-Olá,
-Meu nome é Diogo Rochembach, possuo uma boa habilidade de comunicação, compreensão de dados e resolução de problemas. Sou capaz de processar e analisar informações e produzir saídas coerentes e significativas.
+Olá,<br>
+Me chamo Diogo Rochembach, possuo uma boa habilidade de comunicação, compreensão de dados e resolução de problemas. Sou capaz de processar e analisar informações e produzir saídas coerentes e significativas.
 Além disso, tenho habilidades em gerenciamento de tempo e organização, o que me permite cumprir prazos e entregar trabalhos com excelência. Também sou capaz de trabalhar bem em equipe e colaborar com colegas em diferentes níveis.
 Tenho experiência em diversos campos, principalmente em atendimento ao cliente. Sou extremamente versátil e estou sempre disposto a aprender novas habilidades.
 
