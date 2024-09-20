@@ -3,7 +3,7 @@ Me chamo Diogo Rochembach, possuo uma boa habilidade de comunicação, compreens
 Além disso, tenho habilidades em gerenciamento de tempo e organização, o que me permite cumprir prazos e entregar trabalhos com excelência. Também sou capaz de trabalhar bem em equipe e colaborar com colegas em diferentes níveis.
 Tenho experiência em diversos campos, principalmente em atendimento ao cliente. Sou extremamente versátil e estou sempre disposto a aprender novas habilidades.
 
-Atualmente estou cursando Formação em Dados na DNC Escola de Tecnologia e Análise e Desenvolvimento de Sistema na UNIASSELVI 5º semestre. Sou formado em Administração de Empresas pela UNIJUÍ/RS, fiz um MBA em Gestão de Pessoas na Antonio Meneghetti Faculdade localizada no Recanto Maestro/RS. Possuo experiência na área administrativa e comercial.
+Atualmente estou cursando Formação em Cientista de Dados na DNC Escola de Tecnologia e automação em Python na Simplifica Treinamento. Sou formado em Administração de Empresas pela UNIJUÍ/RS, MBA em Melhoria Contínua na Antonio Meneghetti Faculdade, localizada no Recanto Maestro/RS. Possuo experiência na área administrativa e comercial.
 
 
 Possuo conhecimento em:
