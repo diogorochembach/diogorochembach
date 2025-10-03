@@ -1,9 +1,18 @@
-Olá,<br>
-Me chamo Diogo Rochembach, possuo uma boa habilidade de comunicação, compreensão de dados e resolução de problemas. Sou capaz de processar e analisar informações e produzir saídas coerentes e significativas.
-Além disso, tenho habilidades em gerenciamento de tempo e organização, o que me permite cumprir prazos e entregar trabalhos com excelência. Também sou capaz de trabalhar bem em equipe e colaborar com colegas em diferentes níveis.
-Tenho experiência em diversos campos, principalmente em atendimento ao cliente. Sou extremamente versátil e estou sempre disposto a aprender novas habilidades.
+👋 Olá, eu sou o Diogo Rochembach
 
-Sou formado em Administração de Empresas pela UNIJUÍ/RS, MBA em Melhoria Contínua na Antonio Meneghetti Faculdade, localizada no Recanto Maestro/RS. Possuo experiência na área administrativa e comercial.
+Tenho sólida experiência em comunicação, análise de dados e resolução de problemas, sempre buscando transformar informações em resultados práticos e relevantes. Minhas principais competências incluem:
+
+🔹 Organização e gestão do tempo, garantindo entregas dentro dos prazos com qualidade.
+
+🔹 Colaboração em equipe, trabalhando bem em diferentes níveis e contextos.
+
+🔹 Versatilidade, com facilidade para aprender e desenvolver novas habilidades.
+
+💼 Atuei em diversas áreas, com foco especial em atendimento ao cliente, processos administrativos e área comercial.
+
+🎓 Sou formado em Administração de Empresas pela UNIJUÍ/RS e possuo MBA em Melhoria Contínua pela Antonio Meneghetti Faculdade (Recanto Maestro/RS).
+
+🚀 Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional.
 
 
 Possuo conhecimento em:
