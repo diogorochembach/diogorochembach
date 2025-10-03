@@ -8,17 +8,30 @@ Tenho sólida experiência em comunicação, análise de dados e resolução de 
 
 🔹 Versatilidade, com facilidade para aprender e desenvolver novas habilidades.
 
-💼 Atuei em diversas áreas, com foco especial em atendimento ao cliente, processos administrativos e área comercial.
-
-🎓 Sou formado em Administração de Empresas pela UNIJUÍ/RS e possuo MBA em Melhoria Contínua pela Antonio Meneghetti Faculdade (Recanto Maestro/RS).
+🎓 Sou formado em Administração de Empresas pela UNIJUÍ/RS e possuo MBA em Melhoria Contínua pela Antonio Meneghetti Faculdade (AMF - Recanto Maestro/RS).
 
 🚀 Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional.
+
+💻 Atualmente, estou em desenvolvimento na área de programação, com foco especial em Python para:
+
+Automação de tarefas
+
+Manipulação e análise de dados
+
+Criação e integração de sistemas
+
+Modelagem de bancos de dados (SQL)
+
+💼 Atuei em diversas áreas, com foco especial em atendimento ao cliente, processos administrativos e área comercial, experiências que fortalecem minha capacidade de entender necessidades e propor soluções eficazes.
+
+🚀 Busco oportunidades para crescer como desenvolvedor, unindo minhas (Skills) habilidades, de comunicação e organização à área de tecnologia e programação.
 
 
 Possuo conhecimento em:
 
 <div style="display: inline_block"><br>
   
+  <img align="center" alt="Diogo-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,8 +57,6 @@ Possuo conhecimento em:
   
   Estou adquirindo conhecimento:
   <br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&log" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
