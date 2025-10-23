@@ -8,7 +8,7 @@ Tenho sólida experiência em comunicação, análise de dados e resolução de 
 
 🔹 Versatilidade, com facilidade para aprender e desenvolver novas habilidades.
 
-🎓 Sou formado em Administração de Empresas pela UNIJUÍ/RS e possuo MBA Business Intuition - Performance empresarial - Identidade Empresarial "como o núcleo do líder move o negócio" pela Antonio Meneghetti Faculdade (AMF - Recanto Maestro/RS).
+🎓 Sou formado em Administração pela UNIJUÍ/RS e MBA Business Intuition - Performance empresarial - Identidade Empresarial "como o núcleo do líder move o negócio" pela Antonio Meneghetti Faculdade (AMF - Recanto Maestro/RS).
 
 🚀 Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional.
 
